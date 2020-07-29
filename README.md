@@ -8,13 +8,13 @@
 </p>
 
 ## About Laravel
-inistalition
-1-> composer install
-2-> php artisan key:generate
-3-> "justmop_db" add to phpMyAdmin.
-3-> php artisan migrate --seed
-
-Question 1 
-localhost:8000/api/money
-Question 2
-localhost:8000/api/stringSml/aa
+<b>Setup</b> <br/>
+1-> composer install <br/>
+2-> php artisan key:generate <br/>
+3-> "justmop_db" add to phpMyAdmin. <br/>
+3-> php artisan migrate --seed <br/>
+ <br/>
+<b>Question 1</b>  <br/>
+localhost:8000/api/money <br/>
+<b>Question 2</b> <br/>
+localhost:8000/api/stringSml/aa <br/>
