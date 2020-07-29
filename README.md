@@ -13,6 +13,7 @@
 2-> php artisan key:generate <br/>
 3-> "justmop_db" add to phpMyAdmin. <br/>
 3-> php artisan migrate --seed <br/>
+4-> php artisan serve <br/>
  <br/>
 <b>Question 1</b>  <br/>
 localhost:8000/api/money <br/>
